@@ -1,3 +1,11 @@
+lancer 2 terminal avec comme commande:
+- node server/proxy.cjs
+- npm run dev
+
+
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
